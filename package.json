@@ -4,7 +4,6 @@
   "description": "A responsive photo gallery built with React.js and Tailwind CSS.",
   "main": "index.js",
   "scripts": {
-   
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -23,6 +22,19 @@
   "homepage": "https://github.com/nuwanthikaishani/Photo-Gallery-Website#readme",
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
